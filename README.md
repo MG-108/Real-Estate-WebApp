@@ -8,10 +8,6 @@
 
 Using Bayut API from rapidAPI: https://rapidapi.com/apidojo/api/bayut?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel  </p>
 
-<h2>Project Status<h2>
-  <p>Project Done</p>
-
-
 <h2>Application Features and Demo</h2>
   <p>Right Corner you can see the menu button with Home, Search (using filters), Buy Property and Rent Property. </p>
   <p>You can see property details page with a image carrossel, description, amenities. </p>
