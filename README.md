@@ -24,7 +24,7 @@ Using Bayut API from rapidAPI: https://rapidapi.com/apidojo/api/bayut?utm_source
   <p>Property Type: Apartment, Townhouses, Villas, Penthouses, Hotel Apartments, Villa Compound, Residential Plot, Residential Floor and Residential Building </p>
 
 <h2>Access to Project </h2>
-  <p>Link: https://real-estate-web-mt6ottva0-mg-108.vercel.app/  </p>
+  <p>Link: https://real-estate-web-app-rho.vercel.app/  </p>
 
 <h2>Technologies used</h2>
   <p>Next.js project bootstrapped with create-next-app </p>
