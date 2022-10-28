@@ -11,7 +11,7 @@ Using Bayut API from rapidAPI: https://rapidapi.com/apidojo/api/bayut?utm_source
 <h2>Project Status =  done<h2>
 
 
-<h3>Application Features and Demo</h3>
+<h2>Application Features and Demo</h2>
 <p>Right Corner you can see the menu button with Home, Search (using filters), Buy Property and Rent Property. </p>
 <p>You can see property details page with a image carrosel, description, amenities. </p>
 <p>You can search property  by filter such as, </p>
@@ -26,10 +26,10 @@ Using Bayut API from rapidAPI: https://rapidapi.com/apidojo/api/bayut?utm_source
 <p>Furnish Type: Furnished or Unfurnished, </p>
 <p>Property Type: Apartment, Townhouses, Villas, Penthouses, Hotel Apartments, Villa Compound, Residential Plot, Residential Floor and Residential Building </p>
 
-<h4>Access to Project </h4>
+<h2>Access to Project </h2>
 <p>Link: https://real-estate-web-mt6ottva0-mg-108.vercel.app/  </p>
 
-<h3>Technologies used</h3>
+<h2>Technologies used</h2>
 <p>Next.js project bootstrapped with create-next-app </p>
 <p>React  </p>
 <p>Axios for request data from Bayut API  https://rapidapi.com/apidojo/api/bayut?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel  </p>
