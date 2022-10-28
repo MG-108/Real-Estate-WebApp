@@ -8,10 +8,10 @@
 
 Using Bayut API from rapidAPI: https://rapidapi.com/apidojo/api/bayut?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel  </p>
 
-<h3>Project Status<h3>
+<h2>Project Status<h2>
 <p>Project done</p>
 
-<h3>Application Features and Demo<h3>
+<h2>Application Features and Demo<h2>
 <p>Right Corner you can see the menu button with Home, Search (using filters), Buy Property and Rent Property. </p>
 <p>You can see property details page with a image carrosel, description, amenities. </p>
 <p>You can search property  by filter such as, </p>
@@ -29,7 +29,7 @@ Using Bayut API from rapidAPI: https://rapidapi.com/apidojo/api/bayut?utm_source
 <h3>Access to Project </h3>
 <p>Link: https://real-estate-web-mt6ottva0-mg-108.vercel.app/  </p>
 
-<h4>Technologies used</h4>
+<h3>Technologies used</h3>
 <p>Next.js project bootstrapped with create-next-app </p>
 <p>React  </p>
 <p>Axios for request data from Bayut API  https://rapidapi.com/apidojo/api/bayut?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel  </p>
@@ -42,37 +42,4 @@ Using Bayut API from rapidAPI: https://rapidapi.com/apidojo/api/bayut?utm_source
 
 
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
