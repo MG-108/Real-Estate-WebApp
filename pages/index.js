@@ -29,7 +29,7 @@ const Banner = ({
         {description1}
         <br /> {description2}
       </Text>
-      <Button fontSize="xl">
+      <Button fontSize="xl" color="blue.400">
         <Link href={linkname}>{buttonText}</Link>
       </Button>
     </Box>
