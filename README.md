@@ -4,14 +4,14 @@
 
 
 <h2>Project Description</h2>
-  <p> Real Estate, React and NextJS aplicattion with rental homes and for sale proprities in United Arab Emirates. 
+  <p> Real Estate, React and NextJS aplicattion with rental homes and for sale properties in United Arab Emirates. 
 
 Using Bayut API from rapidAPI: https://rapidapi.com/apidojo/api/bayut?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel  </p>
 
 <h2>Application Features and Demo</h2>
   <p>Right Corner you can see the menu button with Home, Search (using filters), Buy Property and Rent Property. </p>
   <p>You can see property details page with a image carrossel, description, amenities. </p>
-  <p>You can search property  by filter such as, </p>
+  <p>You can search properties by filter such as, </p>
   <p>Purpose: Buy or Rent, </p>
   <p>Rent Frequency: Dayly, Weakly, Monthly and Early, </p>
   <p>Minimun Price: 10.000,</p>
