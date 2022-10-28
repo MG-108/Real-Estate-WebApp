@@ -29,11 +29,11 @@ Using Bayut API from rapidAPI: https://rapidapi.com/apidojo/api/bayut?utm_source
 <h2>Technologies used</h2>
   <p>Next.js project bootstrapped with create-next-app </p>
   <p>React  </p>
-  <p>Axios for request data from Bayut API  https://rapidapi.com/apidojo/api/bayut?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel  </p>
-  <p>Chakra UI for build the user interface  </p>
+  <p>Axios to request data from Bayut API  https://rapidapi.com/apidojo/api/bayut?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel  </p>
+  <p>Chakra UI to build the user interface  </p>
   <p>React-Icons  </p>
   <p>React Horizontal Scrolling Menu  </p>
-  <p> Millify for converting large number in better readble strings (10000 = 10k) </p>
+  <p> Millify to converting large number in better readble strings (10000 = 10k) </p>
   <p>NProgress to show a sutil loading information at the top of page for better user experience  </p>
 
 
