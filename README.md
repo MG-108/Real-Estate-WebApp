@@ -9,7 +9,7 @@
 Using Bayut API from rapidAPI: https://rapidapi.com/apidojo/api/bayut?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel  </p>
 
 <h2>Project Status<h2>
-  <p> Project Done</p>
+  <p>Project Done</p>
 
 
 <h2>Application Features and Demo</h2>
