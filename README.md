@@ -1,7 +1,6 @@
 <h1 align="center"> Real Estate Web Application  </h1>
 
-![Real Estatem Project](https://user-images.githubusercontent.com/109861614/198698567-37128090-80d8-4cba-b988-939a502020ef.png)
-
+![Real Estate Project](https://user-images.githubusercontent.com/109861614/198850689-b1c3cd97-6394-461c-a168-ac829b70ec90.png)
 
 <h2>Project Description</h2>
   <p> Real Estate, React and NextJS aplicattion with rental homes and for sale properties in United Arab Emirates. 
