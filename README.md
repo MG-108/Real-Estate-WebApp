@@ -13,7 +13,7 @@ Using Bayut API from rapidAPI: https://rapidapi.com/apidojo/api/bayut?utm_source
   <p>You can see property details page with a image carrossel, description, amenities. </p>
   <p>You can search properties by filter such as, </p>
   <p>Purpose: Buy or Rent, </p>
-  <p>Rent Frequency: Dayly, Weakly, Monthly and Early, </p>
+  <p>Rent Frequency: Dayly, Weakly, Monthly and Yearly, </p>
   <p>Minimun Price: 10.000,</p>
   <p>Maximum Price: 1.000.000, </p>
   <p>Sort: Lowest Price, Highest Price, Verified and City Level Score, </p>
@@ -33,7 +33,7 @@ Using Bayut API from rapidAPI: https://rapidapi.com/apidojo/api/bayut?utm_source
   <p>Chakra UI to build the user interface  </p>
   <p>React-Icons  </p>
   <p>React Horizontal Scrolling Menu  </p>
-  <p> Millify to converting large number in better readble strings (10000 = 10k) </p>
+  <p> Millify to converting large numbers in better readble strings (10000 = 10k) </p>
   <p>NProgress to show a sutil loading information at the top of page for better user experience  </p>
 
 
