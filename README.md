@@ -3,39 +3,34 @@
 ![Real Estate Project](https://user-images.githubusercontent.com/109861614/198850689-b1c3cd97-6394-461c-a168-ac829b70ec90.png)
 
 <h2>Project Description</h2>
-  <p> Real Estate, React and NextJS aplicattion with rental homes and for sale properties in United Arab Emirates. 
-
-Using Bayut API from rapidAPI: https://rapidapi.com/apidojo/api/bayut?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel  </p>
-
+  <p>A React and NextJS application for browsing rental homes and properties for sale in the United Arab Emirates, using the Bayut API from RapidAPI (https://rapidapi.com/apidojo/api/bayut).</p>
 <h2>Application Features and Demo</h2>
-  <p>Right Corner you can see the menu button with Home, Search (using filters), Buy Property and Rent Property. </p>
-  <p>You can see property details page with a image carrossel, description, amenities. </p>
-  <p>You can search properties by filter such as, </p>
-  <p>Purpose: Buy or Rent, </p>
-  <p>Rent Frequency: Dayly, Weakly, Monthly and Yearly, </p>
-  <p>Minimun Price: 10.000,</p>
-  <p>Maximum Price: 1.000.000, </p>
-  <p>Sort: Lowest Price, Highest Price, Verified and City Level Score, </p>
-  <p>Max Area sqft, </p>
-  <p>Rooms: 1 to 10, </p>
-  <p>Baths: 1 to 10,</p>
-  <p>Furnish Type: Furnished or Unfurnished, </p>
-  <p>Property Type: Apartment, Townhouses, Villas, Penthouses, Hotel Apartments, Villa Compound, Residential Plot, Residential Floor and Residential Building </p>
-
-<h2>Access to Project </h2>
-  <p>Link: https://real-estate-web-app-rho.vercel.app/  </p>
-
-<h2>Technologies used</h2>
-  <p>Next.js project bootstrapped with create-next-app </p>
-  <p>React  </p>
-  <p>Axios to request data from Bayut API  https://rapidapi.com/apidojo/api/bayut?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel  </p>
-  <p>Chakra UI to build the user interface  </p>
-  <p>React-Icons  </p>
-  <p>React Horizontal Scrolling Menu  </p>
-  <p> Millify to converting large numbers in better readble strings (10000 = 10k) </p>
-  <p>NProgress to show a sutil loading information at the top of page for better user experience  </p>
-
-
-
+  <p>The menu button in the top right corner provides access to the Home, Search (with filters), Buy Property and Rent Property pages.</p>
+  <p>Property details pages include a carousel of images, a description, and amenities.</p>
+  <p>Users can search properties by filter, including:</p>
+  <ul>
+    <li>Purpose: Buy or Rent</li>
+    <li>Rent Frequency: Daily, Weekly, Monthly, or Yearly</li>
+    <li>Minimum and Maximum Price</li>
+    <li>Sort by Lowest Price, Highest Price, Verified, or City Level Score</li>
+    <li>Max Area sqft</li>
+    <li>Rooms: 1 to 10</li>
+    <li>Baths: 1 to 10</li>
+    <li>Furnish Type: Furnished or Unfurnished</li>
+    <li>Property Type: Apartment, Townhouses, Villas, Penthouses, Hotel Apartments, Villa Compound, Residential Plot, Residential Floor, or Residential Building</li>
+  </ul>
+<h2>Access the Project</h2>
+  <p>The application can be accessed at the following link:https://real-estate-web-app-rho.vercel.app/</p>
+<h2>Technologies Used</h2>
+  <ul>
+    <li>Next.js project bootstrapped with create-next-app</li>
+    <li>React</li>
+    <li>Axios to request data from the Bayut API (https://rapidapi.com/apidojo/api/bayut)</li>
+    <li>Chakra UI for user interface design</li>
+    <li>React-Icons</li>
+    <li>React Horizontal Scrolling Menu</li>
+    <li>Millify for converting large numbers to more readable strings (e.g. 10000 = 10k)</li>
+    <li>NProgress to show subtle loading information at the top of the page for better user experience.</li>
+  </ul>
 
 
